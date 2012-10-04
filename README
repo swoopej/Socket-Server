@@ -1,0 +1,1 @@
+This is a simple server using the low-level socket server library.  It forks a child process every time a request comes in so it is able to serve multiple clients at once.
